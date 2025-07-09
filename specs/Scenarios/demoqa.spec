@@ -2,6 +2,7 @@
 
 ## 1. Form başarıyla doldurulup gönderilebilir
 * demoqa form sayfasına gidilir
+* Input required eleman sayısı "6" eşit mi?
 * Form başarıyla doldurulur ve gönderilir
 
 ## 2. Firstname girişi olmadan form doldurulması
@@ -122,3 +123,7 @@
 * Form sayfası adress girilir
 * Form sayfası submit butonuna tıklanır
 * Kayıt başarılı pop-up görülür
+
+## Scroll deneme
+* Scroll Down "100"
+* "5" saniye bekle

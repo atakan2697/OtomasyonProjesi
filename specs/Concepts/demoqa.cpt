@@ -7,6 +7,7 @@
 * Form sayfası email girilir
 * Form sayfası gender seçilir
 * Form sayfası mobile girilir
+* Form sayfası dob girilir
 * Form sayfası subject girilir
 * Form sayfası hobby girilir
 * Form sayfası picture girilir
@@ -42,7 +43,9 @@
 
 # Form sayfası dob girilir
 * "form_dob_input" li elemente tıkla
+* "form_dob_input" li elementin input değerini sil
 * "form_dob_input" li elemente "Data_form_dob" değerini yaz
+* "form_dob_input" entere tıkla
 
 # Form sayfası subject girilir
 * "form_subject_input" li elemente swipe yap
