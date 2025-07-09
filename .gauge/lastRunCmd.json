@@ -1,0 +1,8 @@
+[
+	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"C:/Users/Casper/Desktop/web-automation-gauge-default-main/specs/Scenarios/demoqa.spec:113"
+]

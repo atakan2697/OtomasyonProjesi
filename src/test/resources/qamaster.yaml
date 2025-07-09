@@ -1,0 +1,6 @@
+takeScreenShotFail: true
+takeScreenShotPass: true
+useQAMaster: false
+qaMasterUrl: https://uat-api.qamaster.co
+qaMasterUser: klov
+qaMasterPass: vrg_klov

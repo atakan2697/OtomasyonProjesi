@@ -1,0 +1,69 @@
+# demoqa form sayfasına gidilir
+* "https://demoqa.com/automation-practice-form" urle git
+
+# Form başarıyla doldurulur ve gönderilir
+* Form sayfası firstname girilir
+* Form sayfası lastname girilir
+* Form sayfası email girilir
+* Form sayfası gender seçilir
+* Form sayfası mobile girilir
+* Form sayfası subject girilir
+* Form sayfası hobby girilir
+* Form sayfası picture girilir
+* Form sayfası adress girilir
+* Form sayfası submit butonuna tıklanır
+* Kayıt başarılı pop-up görülür
+
+
+# Form sayfası firstname girilir
+* "form_firstname_input" li elemente swipe yap
+* "form_firstname_input" li elemente "Data_form_firstname" değerini yaz
+
+# Form sayfası lastname girilir
+* "form_lastname_input" li elemente "Data_form_lastname" değerini yaz
+
+# Form sayfası email girilir
+* "form_firstname_input" li elemente swipe yap
+* "form_email_input" li elemente "Data_form_email" değerini yaz
+
+#Form sayfasına eksik email girilir
+* "form_email_missing_input" li elemente "Data_form_missing_email" değerini yaz
+
+# Form sayfası gender seçilir
+* "form_firstname_input" li elemente swipe yap
+* "form_gender_input" li elemente tıkla
+
+# Form sayfası mobile girilir
+* "form_firstname_input" li elemente swipe yap
+* "form_mobile_input" li elemente "Data_form_mobile" değerini yaz
+
+# Form sayfasına eksik mobile girilir
+* "form_mobile_missing_input" li elemente "Data_form_missing_mobil" değerini yaz
+
+# Form sayfası dob girilir
+* "form_dob_input" li elemente tıkla
+* "form_dob_input" li elemente "Data_form_dob" değerini yaz
+
+# Form sayfası subject girilir
+* "form_subject_input" li elemente swipe yap
+* "form_subject_input" li elemente "Data_form_subject" değerini yaz
+* "form_subject_input" entere tıkla
+
+# Form sayfası hobby girilir
+* "form_hobby_input" li elemente tıkla
+
+# Form sayfası picture girilir
+* "form_picture_input" li elemente "Data_form_picture" değerini yaz
+
+# Form sayfası adress girilir
+* "form_adress_input" li elemente "Data_form_adress" değerini yaz
+
+# Form sayfası submit butonuna tıklanır
+* "form_button" li elemente swipe yap
+* "form_button" li elemente tıkla
+
+# Kayıt başarılı pop-up görülür
+* "submiting_success_text" li element var mı?
+
+# Kayıt başarılı pop-up gorulmedigi kontrol edilir
+* "submiting_success_text" li element yok mu?

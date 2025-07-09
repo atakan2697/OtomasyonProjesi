@@ -1,0 +1,35 @@
+---
+reportDirectory: target/Virgosol_Report_%rp_%date
+reportFileName: slnarchReport_%rp_%date
+disableReport: false
+sendEmail: false
+gridVideoPath: "C:\\User\\Example\\docker-compose.yml" # This is must selenium grid docker-compose.yml run path.
+recordVideoFail: false
+recordVideoPass: false
+takeScreenShotFail: true
+takeScreenShotPass: true
+beforeDeleteEachTestResult: true
+afterDeleteEachTestResult: false
+deleteZipEachTestResult: true
+appendExistingReport: true
+host: smtp.gmail.com
+port: 465
+auth: true
+username: reporter@virgosol.com
+password: mgsphkhjprxcdrtg
+mailType: SSL
+from: reporter@virgosol.com
+to: furkan.ovut@virgosol.com
+uploadDrive: false
+driveShareTo:
+addAttachment: false
+subject: Web Automation ${date} ${time}
+message: html
+useKlov: false
+klovProject: Gauge Web Test
+klovMongoUri: mongodb://vrgadmin:vrgmng@135.181.73.110:21325
+klovHost: https://klov.qamaster.co
+useQAMaster: false
+qaMasterUrl: https://api.qamaster.co
+qaMasterUser: klov
+qaMasterPass: vrg_klov

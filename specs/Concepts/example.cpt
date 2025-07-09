@@ -1,0 +1,39 @@
+# <url> urline gidilir.
+* <url> urle git
+
+# <url> urlinin açıldığı doğrulanır.
+* Sayfanın url i <url> mı?
+
+# Virgosol logosunun geldiği kontrol edilir.
+* "logo" li element var mı?
+
+# Üst menüden <text> alanı kontrol edilir.
+* "homePageNavMenuList" li elementlerden <text> değerine eşit olan var mı?
+
+# Arama alanına <text> değeri yazılır.
+* "txtbx_googleInput" li elementi temizle
+* "txtbx_googleInput" li elemente <text> değerini yaz
+
+//With English
+
+# <url> check opened url
+* Is the url of the page <url>?
+
+# It is checked that the Virgosol logo appears.
+* find element "logo" and check if it is there?
+* Select Language
+
+# The <text> field is checked from the top menu.
+* find elements "homePageNavMenuList" is there any equal to text <text>?
+
+# <sn> saniye bekle
+* <sn> sn bekle
+
+
+
+
+
+
+
+
+

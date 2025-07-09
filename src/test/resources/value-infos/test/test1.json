@@ -1,0 +1,13 @@
+{
+  "Data_pass": "test",
+  "Data_form_firstname": "atakan",
+  "Data_form_lastname" : "durman",
+  "Data_form_email": "atakan@gmail.com",
+  "Data_form_missing_email": "atakan",
+  "Data_form_missing_mobil": "55555555",
+  "Data_form_mobile": "5555555555",
+  "Data_form_dob": "05 Jul 1997",
+  "Data_form_subject": "Maths",
+  "Data_form_picture": "C:\\Users\\Casper\\Desktop\\web-automation-gauge-default-main\\src\\test\\resources\\images\\araba.jpeg",
+  "Data_form_adress": "çamlıca mahallesi"
+}

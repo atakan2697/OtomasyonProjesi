@@ -1,0 +1,102 @@
+[
+  {
+    "key": "logo",
+    "value": ".logo-dark > img",
+    "type": "css"
+  },
+  {
+    "key": "txtbx_googleInput",
+    "value": "[name='q']",
+    "type": "css"
+  },
+  {
+    "key": "homePageNavMenuList",
+    "value": "#mainMenu > div > nav > ul > li > a",
+    "type": "css"
+  },
+  {
+    "key": "languageDropdown",
+    "value": ".p-dropdown",
+    "type": "css"
+  },
+  {
+    "key": "languageOptions",
+    "value": ".p-dropdown-content > li > a",
+    "type": "css"
+  },
+  {
+    "key": "form_firstname_input",
+    "value": "firstName",
+    "type": "id"
+  },
+  {
+    "key": "form_lastname_input",
+    "value": "lastName",
+    "type": "id"
+  },
+  {
+    "key": "form_email_input",
+    "value": "userEmail",
+    "type": "id"
+  },
+  {
+    "key": "form_email_missing_input",
+    "value": "userEmail",
+    "type": "id"
+  },
+  {
+    "key": "form_gender_input",
+    "value": "//label[text()='Male']",
+    "type": "xpath"
+  },
+  {
+    "key": "form_mobile_input",
+    "value": "userNumber",
+    "type": "id"
+  },
+  {
+    "key": "form_mobile_missing_input",
+    "value": "userNumber",
+    "type": "id"
+  },
+  {
+    "key": "form_dob_input",
+    "value": "//input[@id='dateOfBirthInput']",
+    "type": "xpath"
+  },
+  {
+    "key": "form_subject_input",
+    "value": "subjectsInput",
+    "type": "id"
+  },
+  {
+    "key": "form_hobby_input",
+    "value": "//label[text()='Sports']",
+    "type": "xpath"
+  },
+  {
+    "key": "form_picture_input",
+    "value": "uploadPicture",
+    "type": "id"
+  },
+  {
+    "key": "form_adress_input",
+    "value": "currentAddress",
+    "type": "id"
+  },
+  {
+    "key": "form_button",
+    "value": "submit",
+    "type": "id"
+  },
+  {
+    "key": "submiting_success_text",
+    "value": "//div[text()='Thanks for submitting the form']",
+    "type": "xpath"
+  }
+
+]
+
+
+
+

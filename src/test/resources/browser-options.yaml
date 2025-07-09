@@ -1,0 +1,31 @@
+chromeOptions:
+  - --test-type
+  - --disable-popup-blocking
+  - --ignore-certificate-errors
+  - --disable-translate
+  - --disable-notifications
+  - --disable-gpu
+  - --disable-extensions
+  - --no-sandbox
+  - --disable-dev-shm-usage
+  - --remote-allow-origins=*
+firefoxOptions:
+  - --test-type
+  - --disable-popup-blocking
+  - --ignore-certificate-errors
+  - --disable-translate
+  - --disable-notifications
+edgeOptions:
+  - --test-type
+  - --disable-popup-blocking
+  - --ignore-certificate-errors
+  - --disable-translate
+  - --disable-notifications
+internetExplorerOptions:
+  - "--ignoreZoomSetting, true"
+  - "--enablePersistentHover, false"
+  - "--ignoreZoomSetting, true"
+  - "--requireWindowFocus, true"
+safariOptions:
+  acceptInsecureCerts: true
+  handlesAlerts: true
